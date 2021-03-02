@@ -4,9 +4,9 @@
 <!---->
       <div id="ember3983" class="step-view step-view_material ember-view"><!----><div class="step-wrapper">
   <div class="step-inner page-fragment">
-    <div id="ember3984" class="html-content rich-text-viewer ember-view" data-ready=""><span><h2>Поиск элементов с помощью составных CSS-селекторов</h2>
+    <div id="ember3984" class="html-content rich-text-viewer ember-view" data-ready=""><span>
 
-<p>Теперь предположим, что не можем найти элемент на странице, используя простой&nbsp;селектор, так как такой селектор находит сразу несколько элементов. Ниже мы привели часть кода простой HTML-страницы, описывающей блог. Саму страницу&nbsp;вы можете посмотреть по <a href="http://suninjuly.github.io/blog_example.html" rel="noopener noreferrer nofollow" target="_blank">ссылке</a>.</p>
+<p>Предположим, что не можем найти элемент на странице, используя простой&nbsp;селектор, так как такой селектор находит сразу несколько элементов. Ниже мы привели часть кода простой HTML-страницы, описывающей блог. Саму страницу&nbsp;вы можете посмотреть по <a href="http://suninjuly.github.io/blog_example.html" rel="noopener noreferrer nofollow" target="_blank">ссылке</a>.</p>
 
 <p>Вопрос: как нам найти селектор для подписи у второй картинки? Вот здесь нам поможет иерархическая структура страницы и возможность комбинировать&nbsp;CSS-селекторы. CSS-селекторы позволяют использовать одновременно любые селекторы, рассмотренные ранее, а также имеют некоторые дополнительные возможности для уточнения поиска.</p>
 
